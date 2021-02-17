@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PBridge</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_bridge_name">Text Bridge</string>
+    <string name="trackpad_name">Trackpad</string>
+</resources>
